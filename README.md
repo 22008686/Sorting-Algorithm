@@ -68,8 +68,11 @@ print(list_of_nums)
 ```
 
 ## Output:
+1. SELECTION SORT
 
 ![](./sort1.png)
+
+2.INSERTION SORT
 
 ![](./sort2.png)
 
