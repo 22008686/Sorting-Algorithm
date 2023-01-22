@@ -11,6 +11,11 @@ To write a program to perform selection sort and insertion sort using python pro
 
 ## Algorithm:
 
+1.Get the list of nums as input.
+2.Use the sort() function to find selection sort and insertion sort.
+3.Print the value.
+
+
 ## Selection Sort Algorithm:
 
 1.	Set the first unsorted element as the minimum
